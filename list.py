@@ -1,5 +1,7 @@
 [] Finish duck jump (see TODO file)
 [] Finish minnesota trail (see TODO file) 
+[] Python based Fallout style game with pygame
 [] Python based flight sim route generator
 [] Python based flight sim perf calculator
-[] python based flight tracker
+[] Python based flight tracker
+[] Python GPA Calculator
