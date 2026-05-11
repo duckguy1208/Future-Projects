@@ -4,4 +4,4 @@
 [] Python based flight sim route generator
 [] Python based flight sim perf calculator
 [] Python based flight tracker
-[] Python GPA Calculator
+[x] Python GPA Calculator
