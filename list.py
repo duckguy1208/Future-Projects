@@ -1,8 +1,12 @@
 [x] Python GPA Calculator
-[] Finish duck jump (see TODO file)
-[] Finish minnesota trail (see TODO file) 
+[] Python Budgeting App For Buisness Class
 [] Python based Fallout style game with pygame
 [] Python based flight sim route generator
 [] Python based flight sim perf calculator
 [] Python based flight tracker
-[] Carb Jet Size Calculator 
+[] Carb Jet Size Calculator
+
+---To Finish---
+
+[] Finish duck jump (see TODO file)
+[] Finish minnesota trail (see TODO file) 
