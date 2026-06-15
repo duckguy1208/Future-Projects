@@ -4,6 +4,7 @@
 [] Python based flight sim perf calculator
 [] Python based flight tracker
 [] Carb Jet Size Calculator
+[] Solar System Simulator (planetarium) (interactable with planets and moons)
 
 ---To Finish---
 
