@@ -1,4 +1,5 @@
 [x] Python GPA Calculator
+[] Python Marketplace Scraper
 [] Python based Fallout style game with pygame
 [] Python based flight sim route generator
 [] Python based flight sim perf calculator
